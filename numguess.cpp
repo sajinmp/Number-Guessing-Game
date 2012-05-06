@@ -1,3 +1,15 @@
+/* This is a number guessing game created for turbo C++. Any one can edit or modify this program. 
+
+By changing the range in line 26 you can increase the range of the random number selected. By changing total in line 6 you can increase the total chances.
+
+I am trying to convert it to run in linux. But I dont know the headers for exit(),clrscr() functions. I am in a search for them.
+
+Thanks.
+
+Author : Sajin M Prasad
+Email : sajinprasadkm@gmail.com */
+
+
 #include<fstream.h>
 #include<conio.h>
 #include<process.h>
