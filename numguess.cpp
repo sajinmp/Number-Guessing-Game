@@ -2,9 +2,7 @@
 
 By changing the range in line 26 you can increase the range of the random number selected. By changing total in line 6 
 you can increase the total chances.
-
-I am trying to convert it to run in linux. But I dont know the headers for exit(),clrscr() functions. I am in a search 
-for them.
+.
 
 Thanks.
 
