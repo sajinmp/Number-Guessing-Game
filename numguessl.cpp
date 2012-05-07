@@ -1,3 +1,14 @@
+/* This is a number guessing game created for Linux. Any one can edit or modify this program. 
+
+By changing the range in line 32 you can increase the range of the random number selected. By changing total in line 18 
+you can increase the total chances.
+.
+
+Thanks.
+
+Author : Sajin M Prasad
+Email : sajinprasadkm@gmail.com */
+
 #include<cstdlib>
 #include<fstream>
 #include<iostream>
