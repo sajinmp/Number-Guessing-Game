@@ -1,6 +1,6 @@
 /* This is a number guessing game created for turbo C++. Any one can edit or modify this program. 
 
-By changing the range in line 26 you can increase the range of the random number selected. By changing total in line 6 
+By changing the range in line 34 you can increase the range of the random number selected. By changing total in line 17 
 you can increase the total chances.
 .
 
